@@ -1,0 +1,80 @@
+body{
+   background-color: azure;
+}
+
+#outline{
+    width: 500px;
+    height: 500px;
+    background-color: #ECFDF5;
+    border: 2px solid #000;
+    border-radius: 20px;
+}
+
+h1{
+    font-family: karla;
+    color: black;
+    margin-bottom: 0px;
+    margin-top: 50px;
+}
+span{
+    margin-top: 0px;
+    color: #4ADF86;
+}
+
+#btn_line{
+    width: 500px;
+    height: 0px;
+}
+
+p{
+    color: #6B7280;
+    font-family: Inter;
+}
+#btn_gen_pwd{
+    color: white;
+    width: 191px;
+    height: 42px;
+    font-family: Inter;
+    font-size: medium;
+    background-color: #10B981;
+    border-radius: 6px;
+    border-style: none;   
+}
+#btn_disp_pwd1{
+    width: 211px;
+    height: 39px;
+    background-color: #273549;
+    border-radius: 2px;
+    border-style: none; 
+    font-family: Inter;
+    font-size: medium;
+    color: #55f991;
+    margin:auto;
+}
+#btn_disp_pwd2{
+    width: 211px;
+    height: 39px;
+    background-color: #273549;
+    border-radius: 2px;
+    border-style: none; 
+    font-family: Inter;
+    font-size: medium;
+    color: #55f991;
+    margin:auto;
+}
+
+hr{
+    width: 446px;
+    height: 1px;
+    background: #2F3E53;
+}
+#btn_copy{
+    position: absolute;
+    width: 30px;
+    height: 5px;
+    font-size: xx-small;
+    color: #55f991;
+    background-color: #2F3549;
+}
+
+
